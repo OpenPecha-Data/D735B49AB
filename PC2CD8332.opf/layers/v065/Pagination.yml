@@ -1,60 +1,60 @@
-id: eb25298ec2494efea1146e96fcc77f57
+id: 75df11df6374400bb189913f24d248dd
 annotation_type: Pagination
 revision: '00001'
 annotations:
-  10cd3fbd098b4cd284737193f984a4c9:
+  442916a17a3b4fe0be00a11e31cc4f7b:
     imgnum: 800
     reference: ''
     span:
       start: 0
-      end: 720
-    note_ref: b0f98627cb684879b90116ee847055fe
-  dd59e0033fba432180a2a87e9885bcbe:
+      end: 722
+    note_ref: 8bec8ba28db741d8aaef2a9cc13d9bad
+  3bb0e4922d514247a24a900ce9f07da4:
     imgnum: 801
     reference: ''
     span:
-      start: 723
-      end: 2055
-    note_ref: b0f98627cb684879b90116ee847055fe
-  cfbf73bb99ee42739910d34a53100311:
+      start: 725
+      end: 2059
+    note_ref: 8bec8ba28db741d8aaef2a9cc13d9bad
+  bddd1f78d6d04b988a7d592e0ee5008a:
     imgnum: 802
     reference: ''
     span:
-      start: 2058
-      end: 3418
-    note_ref: b0f98627cb684879b90116ee847055fe
-  2a8fbc8ab67e41138443caa6629e199c:
+      start: 2062
+      end: 3424
+    note_ref: 8bec8ba28db741d8aaef2a9cc13d9bad
+  c48fa906f59e488c97ae8cefdd907280:
     imgnum: 803
     reference: ''
     span:
-      start: 3421
-      end: 4773
-    note_ref: b0f98627cb684879b90116ee847055fe
-  5cead995ccd24479a596eef19ce22230:
+      start: 3427
+      end: 4781
+    note_ref: 8bec8ba28db741d8aaef2a9cc13d9bad
+  d1c0a4ee2d434cfa9e66e1b55d8062d4:
     imgnum: 804
     reference: ''
     span:
-      start: 4776
-      end: 6138
-    note_ref: b0f98627cb684879b90116ee847055fe
-  b484baa5ad664bde9a3cdd97b94aaaa8:
+      start: 4784
+      end: 6148
+    note_ref: 8bec8ba28db741d8aaef2a9cc13d9bad
+  c75d1657d45246d79b1e15d5b08df5f2:
     imgnum: 805
     reference: ''
     span:
-      start: 6141
-      end: 7313
-    note_ref: b0f98627cb684879b90116ee847055fe
-  b0f98627cb684879b90116ee847055fe:
+      start: 6151
+      end: 7325
+    note_ref: 8bec8ba28db741d8aaef2a9cc13d9bad
+  8bec8ba28db741d8aaef2a9cc13d9bad:
     imgnum: 806
     reference: ''
     span:
-      start: 7316
-      end: 8449
+      start: 7328
+      end: 8224
 local_ids:
-  10cd3fbd098b4cd284737193f984a4c9: 200000
-  dd59e0033fba432180a2a87e9885bcbe: 200001
-  cfbf73bb99ee42739910d34a53100311: 200002
-  2a8fbc8ab67e41138443caa6629e199c: 200003
-  5cead995ccd24479a596eef19ce22230: 200004
-  b484baa5ad664bde9a3cdd97b94aaaa8: 200005
-  b0f98627cb684879b90116ee847055fe: 200006
+  442916a17a3b4fe0be00a11e31cc4f7b: 200000
+  3bb0e4922d514247a24a900ce9f07da4: 200001
+  bddd1f78d6d04b988a7d592e0ee5008a: 200002
+  c48fa906f59e488c97ae8cefdd907280: 200003
+  d1c0a4ee2d434cfa9e66e1b55d8062d4: 200004
+  c75d1657d45246d79b1e15d5b08df5f2: 200005
+  8bec8ba28db741d8aaef2a9cc13d9bad: 200006
